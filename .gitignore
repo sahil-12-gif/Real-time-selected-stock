@@ -1,0 +1,16 @@
+# Ignore Python bytecode files
+__pycache__
+
+# Ignore environment files
+.flaskenv
+
+# Ignore IDE-specific files and directories
+.vscode/
+.idea/
+
+# Ignore log files
+*.log
+
+# Ignore virtual environment
+venv/
+instance/
